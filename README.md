@@ -32,7 +32,7 @@ Cannot read '/etc/mtab': Invalid argument (error 22)
 %MSG
 20-Mar-2021 21:47:18 +03  Initiating request to open file root://eospublic.cern.ch//eos/opendata/cms/MonteCarlo2011/Summer11LegDR/QCD_Pt-80to120_TuneZ2_7TeV_pythia6/AODSIM/PU_S13_START53_LV6-v1/00000/005D4394-1FB7-E311-91F4-002590593878.root
 20-Mar-2021 21:47:21 +03  Successfully opened file root://eospublic.cern.ch//eos/opendata/cms/MonteCarlo2011/Summer11LegDR/QCD_Pt-80to120_TuneZ2_7TeV_pythia6/AODSIM/PU_S13_START53_LV6-v1/00000/005D4394-1FB7-E311-91F4-002590593878.root
-Cross section: 784265 \n
+\n Cross section: 784265 \n
 Begin processing the 1st record. Run 1, Event 10924, LumiSection 34 at 20-Mar-2021 21:48:08.388 +03 \n
 Begin processing the 501st record. Run 1, Event 14734, LumiSection 45 at 20-Mar-2021 21:49:28.722 +03 \n
 Begin processing the 1001st record. Run 1, Event 1138317, LumiSection 3440 at 20-Mar-2021 21:50:09.360 +03 \n
