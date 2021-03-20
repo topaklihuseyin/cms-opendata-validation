@@ -7,7 +7,7 @@ CMS-OpenData-1.5.2 on Oracle VirtualBox-6.1.12
 ## 2011-jet-inclusivecrosssection-ntupleproduction
 For this example informations are available [here](https://github.com/cms-opendata-validation/2011-jet-inclusivecrosssection-ntupleproduction)
 ## Code testing status
-Initially, Oracle VirtualBox-6.1.12 installed on a labtop then CMS-OpenData-1.5.2 used as a operating system. If everything goes fine your screen looks like this. 
+Initially, Oracle VirtualBox-6.1.12 installed on a labtop then CMS-OpenData-1.5.2 used as a operating system. If everything goes fine your screen looks like this. To test codes open `CMS S...`,  therminal.
 ![image](https://user-images.githubusercontent.com/66729789/111881100-1e4cae00-89c0-11eb-8a3d-937c8d18170a.png)
 
 
