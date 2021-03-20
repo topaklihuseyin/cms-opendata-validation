@@ -23,7 +23,17 @@ Exception Message:
 A std::exception was thrown.
 cannot commit - no transaction is active ( CORAL : "SQLiteStatement::execute" from "CORAL/RelationalPlugins/sqlite" )
 ----- End Fatal Exception -------------------------------------------------` 
-Same error message seen with Monte-Carlo data.
+
+For Monte Carlo data one error message seen but events counting
+
+`CMS Shell > cmsRun OpenDataTreeProducerOptimized_mcPAT_2011_cfg.py
+%MSG-w LocalFileSystem::initFSList():  (NoModuleName) 20-Mar-2021 21:44:41 +03  pre-events
+Cannot read '/etc/mtab': Invalid argument (error 22)
+%MSG
+20-Mar-2021 21:47:18 +03  Initiating request to open file root://eospublic.cern.ch//eos/opendata/cms/MonteCarlo2011/Summer11LegDR/QCD_Pt-80to120_TuneZ2_7TeV_pythia6/AODSIM/PU_S13_START53_LV6-v1/00000/005D4394-1FB7-E311-91F4-002590593878.root
+20-Mar-2021 21:47:21 +03  Successfully opened file root://eospublic.cern.ch//eos/opendata/cms/MonteCarlo2011/Summer11LegDR/QCD_Pt-80to120_TuneZ2_7TeV_pythia6/AODSIM/PU_S13_START53_LV6-v1/00000/005D4394-1FB7-E311-91F4-002590593878.root
+Cross section: 784265
+Begin processing the 1st record. Run 1, Event 10924, LumiSection 34 at 20-Mar-2021 21:48:08.388 +03`
 
 
 
