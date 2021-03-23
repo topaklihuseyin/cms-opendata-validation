@@ -11,7 +11,11 @@ Initially, Oracle VirtualBox-6.1.12 installed on a labtop then CMS-OpenData-1.5.
 
 ![image](https://user-images.githubusercontent.com/66729789/111881100-1e4cae00-89c0-11eb-8a3d-937c8d18170a.png). 
 
-To test codes open `CMS S...` therminal. Everything goes fine till `Run the program` section. To run the .py file for data with cmsRun `CMS Shell > cmsRun OpenDataTreeProducerOptimized_dataPAT_2011_cfg.py`. It gives error message which is 
+To test codes open `CMS S...` therminal. Everything goes fine till `Run the program` section. To run the .py file for data with cmsRun
+````html
+CMS Shell > cmsRun OpenDataTreeProducerOptimized_dataPAT_2011_cfg.py`. 
+````
+It gives error message which is 
 
 ````html 
 CMS Shell > cmsRun OpenDataTreeProducerOptimized_dataPAT_2011_cfg.py 
