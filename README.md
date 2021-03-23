@@ -9,11 +9,6 @@ For this example informations are available [here](https://github.com/cms-openda
 ## Code testing status
 Initially, Oracle VirtualBox-6.1.12 installed on a labtop then CMS-OpenData-1.5.2 used as a operating system. If everything goes fine your Virtual Machine screen looks like this 
 
-%IMAGE{"![image]https://user-images.githubusercontent.com/66729789/111881100-1e4cae00-89c0-11eb-8a3d-937c8d18170a.png"
-  type="frame" 
-  align="none" 
-  caption="caption text"
-}%
 ![image](https://user-images.githubusercontent.com/66729789/111881100-1e4cae00-89c0-11eb-8a3d-937c8d18170a.png). 
 
 To test codes open `CMS S...` therminal. Everything goes fine till `Run the program` section. To run the .py file for data with cmsRun `CMS Shell > cmsRun OpenDataTreeProducerOptimized_dataPAT_2011_cfg.py`. It gives error message which is `CMS Shell > cmsRun OpenDataTreeProducerOptimized_dataPAT_2011_cfg.py 
