@@ -34,7 +34,8 @@ cannot commit - no transaction is active ( CORAL : "SQLiteStatement::execute" fr
 
 For Monte Carlo data one error message seen but events counting
 
-`CMS Shell > cmsRun OpenDataTreeProducerOptimized_mcPAT_2011_cfg.py
+````html
+CMS Shell > cmsRun OpenDataTreeProducerOptimized_mcPAT_2011_cfg.py
 %MSG-w LocalFileSystem::initFSList():  (NoModuleName) 20-Mar-2021 21:44:41 +03  pre-events
 Cannot read '/etc/mtab': Invalid argument (error 22)
 %MSG
@@ -46,6 +47,6 @@ Cross section: 784265
 * Begin processing the 1001st record. Run 1, Event 1138317, LumiSection 3440 at 20-Mar-2021 21:50:09.360 +03 
 * Begin processing the 1501st record. Run 1, Event 1666762, LumiSection 5036 at 20-Mar-2021 21:50:42.610 +03 
 * Begin processing the 2001st record. Run 1, Event 2260414, LumiSection 6830 at 20-Mar-2021 21:51:12.157 +03` 
-
+````
 
 
